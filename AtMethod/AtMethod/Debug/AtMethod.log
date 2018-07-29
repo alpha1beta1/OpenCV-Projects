@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\vs\opencv_projects\atmethod\atmethod\main.cpp(16): warning C4244: '*=': conversion from 'float' to 'uint8_t', possible loss of data
+opencv_world342d.lib(opencv_world342d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'

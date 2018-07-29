@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\vs\opencv_projects\atmethod\atmethod\main.cpp(19): warning C4244: '*=': conversion from 'float' to 'uchar', possible loss of data
+  AtMethod.vcxproj -> E:\vs\OpenCV_Projects\AtMethod\x64\Debug\AtMethod.exe

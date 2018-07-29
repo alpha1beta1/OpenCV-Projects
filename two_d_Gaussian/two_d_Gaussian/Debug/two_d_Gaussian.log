@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\vs\opencv_projects\two_d_gaussian\two_d_gaussian\main.cpp(101): error C2664: 'void createGaussiaon(cv::Size &,cv::Mat &,int,int,float,float,float)': cannot convert argument 1 from 'cv::Size' to 'cv::Size &'
+  e:\vs\opencv_projects\two_d_gaussian\two_d_gaussian\main.cpp(101): note: A non-const reference may only be bound to an lvalue
